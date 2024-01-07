@@ -1,4 +1,4 @@
-# Uber Data Analytics Project
+# NYC TAXI Trips Data Analytics Project
 
 ## Introduction
 
