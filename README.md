@@ -43,7 +43,9 @@ More information about the dataset can be found on the [official TLC website](ht
 - Addressed unexpected shutdowns in Mage by restarting SSH and creating a new firewall rule.
 
 ### Interesting Insights
-
+![image](https://github.com/Lohitha-Vanteru/NYC-Taxi-Trip-Data-Analytics-/assets/113141006/fa82bbc4-ea92-45e8-8854-c3c3cc97547f)
+#### DashBoard Link : 
+[Link to Dashboard](https://lookerstudio.google.com/u/0/reporting/3a218e00-a785-471e-a65f-477fdd161022/page/eEOkD)
 - Standard rate code generates the highest revenue.
 - Trips to Newark result in the highest average tip at $11.
 - Credit cards are the preferred payment mode (75% of transactions).
